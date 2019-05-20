@@ -1,0 +1,9 @@
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\bin\Debug\netstandard2.0\Kata.Services.deps.json
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\bin\Debug\netstandard2.0\Kata.Services.dll
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\bin\Debug\netstandard2.0\Kata.Services.pdb
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\obj\Debug\netstandard2.0\Kata.Services.csprojAssemblyReference.cache
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\obj\Debug\netstandard2.0\Kata.Services.csproj.CoreCompileInputs.cache
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\obj\Debug\netstandard2.0\Kata.Services.AssemblyInfoInputs.cache
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\obj\Debug\netstandard2.0\Kata.Services.AssemblyInfo.cs
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\obj\Debug\netstandard2.0\Kata.Services.dll
+C:\Users\goobe\source\repos\HackerRank\Kata.Services\obj\Debug\netstandard2.0\Kata.Services.pdb
